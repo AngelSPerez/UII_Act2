@@ -12,5 +12,5 @@ Desarrolla un código de dart simple, sin librerías externas y con los estilos 
 # Diseño
 
 ![alt text](image.png)
-![alt text](Y.png)
 ![alt text](foto.jpeg)
+<img width="540" height="750" alt="Yis" src="https://github.com/user-attachments/assets/d56be8d7-73d0-4e2f-b328-fb2b1d5c0d00" />
